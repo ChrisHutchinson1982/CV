@@ -71,25 +71,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
+#### Makers Academy (2022 to present)
+
+A 16-week intensive Software Development bootcamp, focusing on:
+- Agile methodologies
+- Object-oriented design
+- Test driven developnent
+- Pair programming
+- XP Values
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Sheffield Hallam University (2001-2004)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA (Hons) Industrial Design Product 
 
-#### Any other qualifications
+#### Culcheth High School	1994 to 2001
 
-That in some arguable way make you a better software developer or well-rounded person
+- 4 A Levels (Inc. B in Maths) / 10 GCSEs
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Proud father of two with a passion for making things, sports, and the environment.
