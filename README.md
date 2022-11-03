@@ -43,7 +43,15 @@ In my roles as a Business Analyst and Project Manager, I effectively communicate
 
 #### Problem Solver
 
-During my time at HSBC, I regularly employed my problem-solving skills to champion more effective ways of working by quickly delivering low-cost and high-quality technology solutions using MS Access, MS Excel, MS Visual Basic and SQL. Enhancing my skills through self learning, I was able to continually refine and improve these products which were deployed globally to over 25 countries and used by circa 3k employees.
+During my time at HSBC, I regulary employed my problem-solving skills to champion more effective ways of working.
+- Quickly delivering low-cost and high-quality technology solutions using MS Access, MS Excel, MS Visual Basic and SQL. Enhancing my skills through self learning, I was able to continually refine and improve these products which were deployed globally to over 25 countries and used by circa 3k employees.
+- In my personal life, I am DIY enthusiast. I love the process of teaching yourself a new skill and perfecting it over time through practical application (doing!). I enjoy working hard to work out how to solve a problem and adore the process of making and creating.
+
+#### Analytical Thinking
+
+I am experienced in applying critical and reflective thinking to provide analytical insight, informing strategic decision making for both technical and non-technical audiences. 
+- Received positive recognition from Senior Management at HSBC for channelling the business focus to a 13% group of individuals causing 42% of the departments quality errors.
+- Conducted onsite Health Check assessments at Global Service Centre’s in China, India, and Philippines by providing analysis and recommendations to the management team leading to a 40% improvement in programme participation.
 
 ## Education
 
