@@ -12,11 +12,11 @@
 
 After 17 successful years working for HSBC in a variety of roles spanning Business Analysis, Data Analysis and Project Management, I was ready for a new challenge.
 
-I was enjoying working with development teams on a number projects but felt envious that they were the ones writing the code and building the applications. It suddenly dawned on me, **why couldn't that be me?**
+I was enjoying working with development teams on a number of projects but felt envious that they were the ones writing the code and building the applications. It suddenly dawned on me, **why couldn't that be me?**
 
 Fast forward 6 months and having recently graduated from the **[Makers Academy](https://makers.tech)**, where I learned how to produce high quality test-driven code, I am excited and energised to embark on my next career chapter as a **Full Stack Software Developer**.
 
-As a passionate and curious problem solver who loves working with others, I am looking to join an agile team, where I can apply my rapidly developing tech skills to play a part in building high quality products that really make a difference to peoples lives.
+As a passionate and curious problem solver who loves working with others, I am looking to join an Agile team, where I can apply my rapidly developing tech skills to play a part in building high quality products that really make a difference to peoples lives.
 
 ## Tech Skills
 
@@ -50,13 +50,13 @@ Here is a selection of the projects I've worked on. For a complete list, [please
 | [**Bank Test**](https://github.com/ChrisHutchinson1982/bank_tech_test)              | A quick and simple bank simulator                      | 2 days    | Javascript, NodeJS, Github Actions, Jest                                                                |
 | [**News Challenge**](https://github.com/ChrisHutchinson1982/news-summary-challenge) | A webapp that grabs latest news headlines              | 2 days    | Javascript, NodeJS, Github Actions, Jest, HTML, CSS                                                     |
 | [**Bowling Challenge**](https://github.com/ChrisHutchinson1982/bowling-challenge)   | A bowling scorecard calculator                         | 2 days    | Javascript, NodeJS, Github Actions, Jest                                                                |
-| [**Chitter**](https://github.com/ChrisHutchinson1982/bank_tech_test)                | A experimental Twitter clone                           | 2 days    | Ruby, SQL, PostgreSQL, Sinatra, RSpec, HTML, ERB, CCS                                                   |
+| [**Chitter**](https://github.com/ChrisHutchinson1982/bank_tech_test)                | An experimental Twitter clone                          | 2 days    | Ruby, SQL, PostgreSQL, Sinatra, RSpec, HTML, ERB, CCS                                                   |
 
 ## Skills
 
 ### **Innovative Problem Solver**
 
-A primary driver for my switch into Software Development, is due to my love of making things and enthusiasm for solving problems.
+A primary driver for my switch into Software Development is due to my love of making things and enthusiasm for solving problems.
 
 At HSBC, I regularly employed my problem-solving skills to champion more effective ways of working by quickly delivering low-cost and high-quality technology solutions using Microsoft Visual Basic and SQL. Enhancing my coding skills through self learning, they were deployed to over 25 countries and used by 3k employees over a 5-year period.
 
@@ -66,7 +66,7 @@ Throughout the Makers course, I was pushed out of my comfort zone with challenge
 
 In my roles as a Business Analyst and Project Manager, I effectively communicated with a wide range of stakeholders across multiple geographies to spearhead the design and delivery of a range of innovative technology and data solutions.
 
-This included project managing a global system migration where I acted as the communication channel between developers and the business. Translating end user needs into technical requirements and directing the ambitious 6-month solution delivery to 30+ sites.
+This included project managing a global system migration where I acted as the communication channel between developers and the business, translating end user needs into technical requirements and directing the ambitious 6-month solution delivery to 30+ sites.
 
 As I pivot into Software Development, I have been able to apply my strong communication skills during pair programming, group projects and when volunteering to lead an end of project retro for our Makers cohort.
 
@@ -76,13 +76,13 @@ I thrive when working within a team on a shared goal and am always on hand to su
 
 Adopting a nurturing leadership approach when managing a team based in India, we created a reputation for delivering an excellent quality of service to the 25+ markets that we supported and I was to proud to oversee a high proportion of the team in gaining promotions at HSBC.
 
-When working as part of an agile team in group projects and during the more formal learning weeks, if someone in my Makers cohort needed support, I made sure I was available to help them get through their blocker.
+When working as part of an Agile team in group projects and during the more formal learning weeks, if someone in my Makers cohort needed support, I made sure I was available to help them get through their blocker.
 
 ### **Fast and Independent Learner**
 
 In my previous career within Financial Services, through self learning, I became an expert in a variety of tools such as MS Excel, MS Access and MS Sharepoint. I used these technologies to implement a Global Coaching framework which helped pinpoint specific coaching activity, contributing to a 7% improvement in the departments Customer Service results.
 
-The pace of learning during the Bootcamp was intense but I relished the process. I was able to pick up a second language, Javascript, in a few days and tault myself how to test drive new features using the MERN stack on the [**Acebook**](https://github.com/ChrisHutchinson1982/acebook-mern-priceless) and [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday) projects.
+The pace of learning during the Makers Bootcamp was intense but I relished the process. I was able to pick up a second language, Javascript, in a few days and taught myself how to test drive new features using the MERN stack on the [**Acebook**](https://github.com/ChrisHutchinson1982/acebook-mern-priceless) and [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday) projects.
 
 Now that I have graduated from Makers, I am eager to learn as much as possible so that I keep growing as a developer. I am excited to work on new challenges, gain new knowledge and use my existing skills to enhance my future projects.
 
@@ -124,9 +124,9 @@ _Global Business Analyst and Platform Manager_
 _Global Platform and Operational Data Manager_
 
 - Developed low cost and high-quality platform solutions utilising MS Access, MS Excel and MS SharePoint.
-- Led solution delivery of large transformation projects inc. roll out of Quality and Coaching models.
+- Led solution delivery of large transformation projects including the roll out of Quality and Coaching models.
 - Designed global reporting infrastructure, shaping a robust risk control and governance framework.
-- Conducted onsite Health Check assessments at Global Service Centre’s in China, India and Philippines.
+- Conducted onsite Health Check assessments at Global Service Centres in China, India and Philippines.
 - Managed a team based in India, providing system support and report production to 25+ countries.
 
 ### HSBC | RBWM Risk (2014 to 2020)
@@ -141,17 +141,17 @@ _Regional Platform and Operational Data Manager_
 _Project Manager_
 
 - Quickly promoted into role by Employee Development Senior Manager to manage, develop and support the teams IT Platforms.
-- Received ‘Credit for Credit’ award in commitment for building mutually beneficial relationships.
+- Received ‘Credit for Credit’ award for commitment to building mutually beneficial relationships.
 
 ## Interests
 
 **My Kids**
 
-I am a proud father of two. It is amazing seeing the world through two sets of new eyes and I am hoping to tap in on their imagine for some interesting coding projects.
+I am a proud father of two. It is amazing seeing the world through two sets of new eyes and I am hoping to tap in on their imagination for some interesting coding projects.
 
 **DIY**
 
-I am a DIY enthusiast and adore the process of making and creating. I take great pleasure in teaching yourself a new skill and perfecting it over time through practical application (doing!).
+I am a DIY enthusiast and adore the process of making and creating. I take great pleasure in teaching myself a new skill and perfecting it over time through practical application (doing!).
 
 **Sport**
 
