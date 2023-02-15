@@ -113,7 +113,7 @@ A fully immersive 16-week Software Development course at Europe’s #1 Developer
 
 _Global Business Analyst and Platform Manager_
 
-- Effectively led a team managing critical systems used by 5.1k employees operating over 25+ countries.
+- Effectively led a team managing critical systems used by 3k employees operating over 25+ countries.
 - Successfully sustained vital processes with a rapid shift to 100% remote working due to Covid-19.
 - Served as bridge between development teams and business to design and deliver value-adding technology.
 - Spearheaded end to end transition of global system infrastructure to a digital future state solution.
