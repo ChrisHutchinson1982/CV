@@ -60,29 +60,27 @@ A primary driver for my switch into Software Development, is due to my love of m
 
 At HSBC, I regularly employed my problem-solving skills to champion more effective ways of working by quickly delivering low-cost and high-quality technology solutions using Microsoft Visual Basic and SQL. Enhancing my coding skills through self learning, they were deployed to over 25 countries and used by 3k employees over a 5-year period.
 
-Throughout the Makers course I was pushed out of my comfort zone with challenges that tested technical and logical thinking. I enjoyed tackling the weekend solo challenges by breaking down problems into a series of small manageable elements anmd enhanced my problem solving tool kit by developing a consistent debugging process to help resolve issues.
+Throughout the Makers course, I was pushed out of my comfort zone with challenges that tested technical and logical thinking. I enjoyed tackling the weekend solo challenges by breaking down problems into a series of small manageable elements and enhanced my problem solving tool kit by developing a consistent debugging process to help resolve issues.
 
 ### **Excellent Communicator**
 
 In my roles as a Business Analyst and Project Manager, I effectively communicated with a wide range of stakeholders across multiple geographies to spearhead the design and delivery of a range of innovative technology and data solutions.
 
-This included, project managing a global system migration where I acted as the communication channel between developers and the business. Translating end user needs into technical requirements and directing the ambitious 6-month solution delivery to 30+ sites.
+This included project managing a global system migration where I acted as the communication channel between developers and the business. Translating end user needs into technical requirements and directing the ambitious 6-month solution delivery to 30+ sites.
 
-As I pivot into Software Development, I have been able to apply my strong communication skills during pair programming, group projects and when volunteering to lead an end of project retro for our Makers Cohort.
+As I pivot into Software Development, I have been able to apply my strong communication skills during pair programming, group projects and when volunteering to lead an end of project retro for our Makers cohort.
 
 ### **Empathetic Team-player**
 
 I thrive when working within a team on a shared goal and am always on hand to support others to ensure everyone is getting the most out of the experience.
 
-While at HSBC, I collaborated with operations and data specialists to automate the departments global reporting infrastructure. Working as a successful team to overcome technical challenges, we developed an easy-to-use tool that identified areas of opportunity contributing to a 7% improvement in Customer Service results.
+Adopting a nurturing leadership approach when managing a team based in India, we created a reputation for delivering an excellent quality of service to the 25+ markets that we supported and I was to proud to oversee a high proportion of the team in gaining promotions at HSBC.
 
-Adopting a nurturing leadership approach when managing a team based in India, I proudly oversaw a high proportion of the team in gaining promotions at HSBC.
-
-As Makers, when working as part of an agile team in group projects or during the more formal learning weeks, if someone in the cohort needed some support, I made sure I was available to help them get through their blocker.
+When working as part of an agile team in group projects or during the more formal learning weeks, if someone in my Makers cohort needed some support, I made sure I was available to help them get through their blocker.
 
 ### **Fast and Independent Learner**
 
-In my previous career within Financial Services, I became an expert in a variety of tools such as MS Excel, MS Access and MS Sharepoint through self learning. I used these technologies to implement a Global Quality Assurance and Coaching Reporting framework which helped pinpoint coaching activity for employees to drive superior interactions with the customer.
+In my previous career within Financial Services, I became an expert in a variety of tools such as MS Excel, MS Access and MS Sharepoint through self learning. I used these technologies to implement a global coaching framework which helped pinpoint coaching activity for employees to drive superior interactions with the customer.
 
 The pace of learning during the Bootcamp was intense but I relished the process. I was able to pick up a second language, Javascript, in a few days and tault myself how to develop features using the MERN stack on the [**Acebook**](https://github.com/ChrisHutchinson1982/acebook-mern-priceless) and [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday) projects.
 
