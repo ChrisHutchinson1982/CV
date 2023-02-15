@@ -80,7 +80,7 @@ When working as part of an agile team in group projects or during the more forma
 
 ### **Fast and Independent Learner**
 
-In my previous career within Financial Services, I became an expert in a variety of tools such as MS Excel, MS Access and MS Sharepoint through self learning. I used these technologies to implement a global coaching framework which helped pinpoint coaching activity for employees to drive superior interactions with the customer.
+In my previous career within Financial Services, through self learning, I became an expert in a variety of tools such as MS Excel, MS Access and MS Sharepoint. I used these technologies to implement a global coaching framework which helped pinpoint coaching activity for employees to drive superior interactions with the customer.
 
 The pace of learning during the Bootcamp was intense but I relished the process. I was able to pick up a second language, Javascript, in a few days and tault myself how to develop features using the MERN stack on the [**Acebook**](https://github.com/ChrisHutchinson1982/acebook-mern-priceless) and [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday) projects.
 
@@ -96,7 +96,7 @@ A fully immersive 16-week Software Development course at Europe’s #1 Developer
 - Test Driven Development, writing meaningful tests (behaviour vs. state) based on user requirements.
 - Pair programming and group projects using Agile values and principles.
 - Designing table-oriented (SQL) and document-based (MongoDB) database schemas.
-- Web frameworks, version control (Git/GitHub), and continuous integration/deployment to create full stack web apps.
+- Web frameworks, version control and continuous integration/deployment to create full stack web apps.
 - Independent learning and problem-solving.
 
 ### Sheffield Hallam University (2001-2004)
