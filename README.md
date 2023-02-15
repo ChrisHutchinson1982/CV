@@ -1,13 +1,14 @@
 <h1 align="center"> Chris Hutchinson - Software Developer</h1>
-<center>
+
+<p>
+<div align="center">
 
 [About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/chris-d-hutchinson/) | [Codewars](https://www.codewars.com/users/ChrisHutchinson1982)
 
-</center>
+</div>
+</p>
 
 ## About me
-
----
 
 After 17 successful years working for HSBC in a variety of roles spanning Business Analysis, Data Analysis and Project Management, I was ready for a new challenge.
 
@@ -17,9 +18,7 @@ Fast forward 6 months and having recently graduated from the **[Makers Academy](
 
 As a passionate and curious problem solver who loves working with others, I am looking to join an agile team, where I can apply my rapidly developing tech skills to play a part in building high quality products that really make a difference to peoples lives.
 
-### Tech Skills
-
----
+## Tech Skills
 
 <p>
 <div align="center">
@@ -43,21 +42,17 @@ As a passionate and curious problem solver who loves working with others, I am l
 
 ## Projects
 
----
-
 Here is a selection of the projects I've worked on. For a complete list, [please see my Github](https://github.com/ChrisHutchinson1982?tab=repositories).
 
-| Name                                                                                | Description                                                                         | Timeframe | Tech/tools                                                                                              |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------- |
-| [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday)                     | A webapp that provides Co2e emissions for different destinations and vehicle types. | 10 days   | Javascript, MongoDB, Express, React, NodeJS, Github Actions, HTML, CSS (Tailwind), Jest, Cypress, Agile |
-| [**Bank Test**](https://github.com/ChrisHutchinson1982/bank_tech_test)              | A quick and simple bank simulator.                                                  | 2 days    | Javascript, NodeJS, Github Actions, Jest                                                                |
-| [**News Challenge**](https://github.com/ChrisHutchinson1982/news-summary-challenge) | A webapp that grabs latest news headlines.                                          | 2 days    | Javascript, NodeJS, Github Actions, Jest, HTML, CSS                                                     |
-| [**Bowling Challenge**](https://github.com/ChrisHutchinson1982/bowling-challenge)   | A bowling scorecard calculator.                                                     | 2 days    | Javascript, NodeJS, Github Actions, Jest                                                                |
-| [**Chitter**](https://github.com/ChrisHutchinson1982/bank_tech_test)                | A experimental Twitter clone.                                                       | 2 days    | Ruby, SQL, PostgreSQL, Sinatra, RSpec, HTML, ERB, CCS                                                   |
+| Name                                                                                | Description                                            | Timeframe | Tech/tools                                                                                              |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------ | --------- | ------------------------------------------------------------------------------------------------------- |
+| [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday)                     | A webapp that provides Co2e emissions for travel plans | 10 days   | Javascript, MongoDB, Express, React, NodeJS, Github Actions, HTML, CSS (Tailwind), Jest, Cypress, Agile |
+| [**Bank Test**](https://github.com/ChrisHutchinson1982/bank_tech_test)              | A quick and simple bank simulator                      | 2 days    | Javascript, NodeJS, Github Actions, Jest                                                                |
+| [**News Challenge**](https://github.com/ChrisHutchinson1982/news-summary-challenge) | A webapp that grabs latest news headlines              | 2 days    | Javascript, NodeJS, Github Actions, Jest, HTML, CSS                                                     |
+| [**Bowling Challenge**](https://github.com/ChrisHutchinson1982/bowling-challenge)   | A bowling scorecard calculator                         | 2 days    | Javascript, NodeJS, Github Actions, Jest                                                                |
+| [**Chitter**](https://github.com/ChrisHutchinson1982/bank_tech_test)                | A experimental Twitter clone                           | 2 days    | Ruby, SQL, PostgreSQL, Sinatra, RSpec, HTML, ERB, CCS                                                   |
 
 ## Skills
-
----
 
 ### **Innovative Problem Solver**
 
@@ -65,7 +60,7 @@ A primary driver for my switch into Software Development, is due to my love of m
 
 - At HSBC, I regularly employed my problem-solving skills to champion more effective ways of working by quickly delivering low-cost and high-quality technology solutions using Microsoft Visual Basic and SQL. Enhancing my coding skills through self learning, these products were deployed globally to over 25 countries and used by 3k employees over a 5-year period.
 
-- Throughout the Makers course I was pushed out of my comfort zone with challenges that tested technical and logical thinking. I enjoyed tackling the weekend solo challenges by breaking down problems into a series of small manageable elements and building it up from there. I was also able to enhance my problem solving tool set by developing a consistent debugging process to help resolve issues.
+- Throughout the Makers course I was pushed out of my comfort zone with challenges that tested technical and logical thinking. I enjoyed tackling the weekend solo challenges by breaking down problems into a series of small manageable elements. I enhanced my problem solving tool kit by developing a consistent debugging process to help resolve issues.
 
 ### **Excellent Communicator**
 
@@ -81,23 +76,21 @@ As I pivot into Software Development, I have been able to apply my strong commun
 
 I thrive when working within a team on a shared goal and am always on hand to support others to ensure everyone is getting the most out of the experience.
 
-- While at HSBC, I collaborated with operations and data specialists to automate the departments global reporting infrastructure. Working as a successful team to overcome technical challenges, we developed an easy-to-use tool that identified areas of opportunity contributing to a 7% improvement in departments Customer Service results.
+- While at HSBC, I collaborated with operations and data specialists to automate the departments global reporting infrastructure. Working as a successful team to overcome technical challenges, we developed an easy-to-use tool that identified areas of opportunity contributing to a 7% improvement in Customer Service results.
 
 - Adopting a nurturing leadership approach when managing a team based in India, I proudly oversaw a high proportion of the team in gaining promotions at HSBC.
 
-- On the Software Development bootcamp, when working as part of an agile team in group projects or during the more formal learning weeks, I was able to hone my pair programming skills. It was great tackling a problem together especially when you were trying something new or more complex. If someone in the cohort needed some support, I made sure I was available to help them get through their blocker.
+- On the Software Development bootcamp, when working as part of an agile team in group projects or during the more formal learning weeks, if someone in the cohort needed some support, I made sure I was available to help them get through their blocker.
 
 ### **Fast and Independent Learner**
 
-In my previous career within Financial Services, I became an expert in a variety of tools such as MS Excel, MS Access and MS Sharepoint through self learning. I used these technologies to implement Global Quality Assurance and Coaching Reporting infrastructure which helped to shape a robust risk control and governance framework, highlighting regulatory/conduct risks and pinpointing coaching activity for employees to drive superior interactions with the customer.
+In my previous career within Financial Services, I became an expert in a variety of tools such as MS Excel, MS Access and MS Sharepoint through self learning. I used these technologies to implement a Global Quality Assurance and Coaching Reporting framework which helped pinpoint coaching activity for employees to drive superior interactions with the customer.
 
 The pace of learning during the Bootcamp was intense but I relished the process. I was able to pick up a second language, Javascript, in a few days and tault myself how to develop features using the MERN stack on the [**Acebook**](https://github.com/ChrisHutchinson1982/acebook-mern-priceless) and [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday) projects.
 
 Now that I have graduated from Makers, I am eager to learn as much as possible so that I keep growing as a developer. I am excited to work on new challenges, gain new knowledge and use my existing skills to enhance my future projects.
 
 ## Education
-
----
 
 ### Makers Academy (Oct-2022 to Feb-2023)
 
@@ -120,15 +113,13 @@ A fully immersive 16-week Software Development course at Europe’s #1 Developer
 
 ## Experience
 
----
-
 ### HSBC | WPB Credit Control Services (2020 to 2022)
 
 _Global Business Analyst and Platform Manager_
 
-- Effectively led a team managing critical systems and reporting used by 5.1k employees operating over 25+ countries.
+- Effectively led a team managing critical systems used by 5.1k employees operating over 25+ countries.
 - Successfully sustained vital processes with a rapid shift to 100% remote working due to Covid-19.
-- Served as bridge between development teams and business to design and deliver value-adding technology and reporting.
+- Served as bridge between development teams and business to design and deliver value-adding technology.
 - Spearheaded end to end transition of global system infrastructure to a digital future state solution.
 - Collaborated with IT and Analytics to streamline and automate global reporting within Qlik Sense.
 
@@ -136,7 +127,7 @@ _Global Business Analyst and Platform Manager_
 
 _Global Platform and Operational Data Manager_
 
-- Developed low cost and high-quality platform solutions utilising MS Access, MS Excel, VBA and SharePoint.
+- Developed low cost and high-quality platform solutions utilising MS Access, MS Excel and MS SharePoint.
 - Led solution delivery of large transformation projects inc. roll out of Quality and Coaching models.
 - Designed global reporting infrastructure, shaping a robust risk control and governance framework.
 - Conducted onsite Health Check assessments at Global Service Centre’s in China, India and Philippines.
@@ -158,15 +149,13 @@ _Project Manager_
 
 ## Interests
 
----
-
 **My Kids**
 
 I am a proud father of two. It is amazing seeing the world through two sets of new eyes and I am hoping to tap in on their imagine for some interesting coding projects.
 
 **DIY**
 
-I am a DIY enthusiast. I take great pleasure in teaching yourself a new skill and perfecting it over time through practical application (doing!). I enjoy working hard to work out how to solve a problem and adore the process of making and creating.
+I am a DIY enthusiast and adore the process of making and creating. I take great pleasure in teaching yourself a new skill and perfecting it over time through practical application (doing!).
 
 **Sport**
 
@@ -174,7 +163,7 @@ I enjoy most sports, especially football. I am long suffering Everton supporter 
 
 **Music**
 
-Music has been a huge part of my life. I have played in a number of bands, releasing a few records and playing gigs all over the UK as well as a few in Europe. While I lived in Sheffield, I organised a weekly band night with a group of friends where we hosted bands such as Artic Monkeys when they were just starting out.
+Music has been a huge part of my life. I have played in a number of bands, releasing a few records and playing gigs all over the UK as well as a few in Europe. While I lived in Sheffield, I organised a weekly band night with a group of friends where we hosted bands such as the Artic Monkeys.
 
 **Environment**
 
