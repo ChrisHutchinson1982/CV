@@ -163,4 +163,4 @@ Music has been a huge part of my life. I have played in a number of bands, relea
 
 **Environment**
 
-I am a lover of all natural things and adore being outside. I am really passionate about the future of our planet and was proud to create the [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday) webapp as part of final project at Makers to promote eco-friendly travel plans.
+I am a lover of the natural world and being outdoors. I am really passionate about the future of our planet and was proud to create the [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday) webapp as part of final project at Makers to promote eco-friendly travel plans.
