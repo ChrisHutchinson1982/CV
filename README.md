@@ -82,7 +82,7 @@ When working as part of an agile team in group projects and during the more form
 
 In my previous career within Financial Services, through self learning, I became an expert in a variety of tools such as MS Excel, MS Access and MS Sharepoint. I used these technologies to implement a Global Coaching framework which helped pinpoint specific coaching activity, contributing to a 7% improvement in the departments Customer Service results.
 
-The pace of learning during the Bootcamp was intense but I relished the process. I was able to pick up a second language, Javascript, in a few days and tault myself how to develop features using the MERN stack on the [**Acebook**](https://github.com/ChrisHutchinson1982/acebook-mern-priceless) and [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday) projects.
+The pace of learning during the Bootcamp was intense but I relished the process. I was able to pick up a second language, Javascript, in a few days and tault myself how to test drive new features using the MERN stack on the [**Acebook**](https://github.com/ChrisHutchinson1982/acebook-mern-priceless) and [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday) projects.
 
 Now that I have graduated from Makers, I am eager to learn as much as possible so that I keep growing as a developer. I am excited to work on new challenges, gain new knowledge and use my existing skills to enhance my future projects.
 
