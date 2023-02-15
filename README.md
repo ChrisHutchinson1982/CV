@@ -56,19 +56,17 @@ Here is a selection of the projects I've worked on. For a complete list, [please
 
 ### **Innovative Problem Solver**
 
-A primary driver for my switch into Software Development, is due to my love of making things and enthusiasm for solving problems;
+A primary driver for my switch into Software Development, is due to my love of making things and enthusiasm for solving problems.
 
-- At HSBC, I regularly employed my problem-solving skills to champion more effective ways of working by quickly delivering low-cost and high-quality technology solutions using Microsoft Visual Basic and SQL. Enhancing my coding skills through self learning, these products were deployed globally to over 25 countries and used by 3k employees over a 5-year period.
+At HSBC, I regularly employed my problem-solving skills to champion more effective ways of working by quickly delivering low-cost and high-quality technology solutions using Microsoft Visual Basic and SQL. Enhancing my coding skills through self learning, they were deployed to over 25 countries and used by 3k employees over a 5-year period.
 
-- Throughout the Makers course I was pushed out of my comfort zone with challenges that tested technical and logical thinking. I enjoyed tackling the weekend solo challenges by breaking down problems into a series of small manageable elements. I enhanced my problem solving tool kit by developing a consistent debugging process to help resolve issues.
+Throughout the Makers course I was pushed out of my comfort zone with challenges that tested technical and logical thinking. I enjoyed tackling the weekend solo challenges by breaking down problems into a series of small manageable elements anmd enhanced my problem solving tool kit by developing a consistent debugging process to help resolve issues.
 
 ### **Excellent Communicator**
 
-In my roles as a Business Analyst and Project Manager, I effectively communicated with a wide range of stakeholders across multiple geographies to spearhead the design and delivery of a range of innovative technology and data solutions;
+In my roles as a Business Analyst and Project Manager, I effectively communicated with a wide range of stakeholders across multiple geographies to spearhead the design and delivery of a range of innovative technology and data solutions.
 
-- Project managing a global system migration where I acted as the communication channel between developers and the business. Translating end user needs into technical requirements and directing the ambitious 6-month solution delivery to 30+ sites.
-
-- Hosting onsite and remote system deployment events to large groups of individuals from both technical and non-technical teams.
+This included, project managing a global system migration where I acted as the communication channel between developers and the business. Translating end user needs into technical requirements and directing the ambitious 6-month solution delivery to 30+ sites.
 
 As I pivot into Software Development, I have been able to apply my strong communication skills during pair programming, group projects and when volunteering to lead an end of project retro for our Makers Cohort.
 
@@ -76,11 +74,11 @@ As I pivot into Software Development, I have been able to apply my strong commun
 
 I thrive when working within a team on a shared goal and am always on hand to support others to ensure everyone is getting the most out of the experience.
 
-- While at HSBC, I collaborated with operations and data specialists to automate the departments global reporting infrastructure. Working as a successful team to overcome technical challenges, we developed an easy-to-use tool that identified areas of opportunity contributing to a 7% improvement in Customer Service results.
+While at HSBC, I collaborated with operations and data specialists to automate the departments global reporting infrastructure. Working as a successful team to overcome technical challenges, we developed an easy-to-use tool that identified areas of opportunity contributing to a 7% improvement in Customer Service results.
 
-- Adopting a nurturing leadership approach when managing a team based in India, I proudly oversaw a high proportion of the team in gaining promotions at HSBC.
+Adopting a nurturing leadership approach when managing a team based in India, I proudly oversaw a high proportion of the team in gaining promotions at HSBC.
 
-- On the Software Development bootcamp, when working as part of an agile team in group projects or during the more formal learning weeks, if someone in the cohort needed some support, I made sure I was available to help them get through their blocker.
+As Makers, when working as part of an agile team in group projects or during the more formal learning weeks, if someone in the cohort needed some support, I made sure I was available to help them get through their blocker.
 
 ### **Fast and Independent Learner**
 
@@ -167,4 +165,4 @@ Music has been a huge part of my life. I have played in a number of bands, relea
 
 **Environment**
 
-I am a lover of all natural things and adore being outside. I am really passionate about the future of our planet and was proud to create the [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday) webapp as part of final project at Makers to promote more eco-friendly travel plans.
+I am a lover of all natural things and adore being outside. I am really passionate about the future of our planet and was proud to create the [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday) webapp as part of final project at Makers to promote eco-friendly travel plans.
