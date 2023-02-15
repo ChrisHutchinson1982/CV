@@ -76,11 +76,11 @@ I thrive when working within a team on a shared goal and am always on hand to su
 
 Adopting a nurturing leadership approach when managing a team based in India, we created a reputation for delivering an excellent quality of service to the 25+ markets that we supported and I was to proud to oversee a high proportion of the team in gaining promotions at HSBC.
 
-When working as part of an agile team in group projects or during the more formal learning weeks, if someone in my Makers cohort needed some support, I made sure I was available to help them get through their blocker.
+When working as part of an agile team in group projects and during the more formal learning weeks, if someone in my Makers cohort needed support, I made sure I was available to help them get through their blocker.
 
 ### **Fast and Independent Learner**
 
-In my previous career within Financial Services, through self learning, I became an expert in a variety of tools such as MS Excel, MS Access and MS Sharepoint. I used these technologies to implement a global coaching framework which helped pinpoint coaching activity for employees to drive superior interactions with the customer.
+In my previous career within Financial Services, through self learning, I became an expert in a variety of tools such as MS Excel, MS Access and MS Sharepoint. I used these technologies to implement a Global Coaching framework which helped pinpoint specific coaching activity, contributing to a 7% improvement in the departments Customer Service results.
 
 The pace of learning during the Bootcamp was intense but I relished the process. I was able to pick up a second language, Javascript, in a few days and tault myself how to develop features using the MERN stack on the [**Acebook**](https://github.com/ChrisHutchinson1982/acebook-mern-priceless) and [**Ecoliday**](https://github.com/ChrisHutchinson1982/Ecoliday) projects.
 
