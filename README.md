@@ -74,7 +74,7 @@ As I pivot into Software Development, I have been able to apply my strong commun
 
 I thrive when working within a team on a shared goal and am always on hand to support others to ensure everyone is getting the most out of the experience.
 
-Adopting a nurturing leadership approach when managing a team based in India, we created a reputation for delivering an excellent quality of service to the 25+ markets that we supported and I was to proud to oversee a high proportion of the team in gaining promotions at HSBC.
+Adopting a nurturing leadership approach when managing a team based in India, we created a reputation for delivering an excellent quality of service to the 25+ markets that we supported and I was proud to oversee a high proportion of the team in gaining promotions at HSBC.
 
 When working as part of an Agile team in group projects and during the more formal learning weeks, if someone in my Makers cohort needed support, I made sure I was available to help them get through their blocker.
 
@@ -114,9 +114,9 @@ A fully immersive 16-week Software Development course at Europe’s #1 Developer
 _Global Business Analyst and Platform Manager_
 
 - Effectively led a team managing critical systems used by 3k employees operating over 25+ countries.
+- Spearheaded transition of global system infrastructure to a web based solution, improving user experience and reducing employee system time by up to 50%.
 - Successfully sustained vital processes with a rapid shift to 100% remote working due to Covid-19.
 - Served as bridge between development teams and business to design and deliver value-adding technology.
-- Spearheaded end to end transition of global system infrastructure to a digital future state solution.
 - Collaborated with IT and Analytics to streamline and automate global reporting within Qlik Sense.
 
 ### HSBC | RBWM Credit Control Services (2014 to 2022)
