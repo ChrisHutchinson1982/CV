@@ -114,10 +114,10 @@ A fully immersive 16-week Software Development course at Europe’s #1 Developer
 _Global Business Analyst and Platform Manager_
 
 - Effectively led a team managing critical systems used by 3k employees operating over 25+ countries.
-- Spearheaded transition of global system infrastructure to a web based solution, improving user experience and reducing employee system time by up to 50%.
+- Served as bridge between development teams and business to design and deliver value-adding technology, improving user experience and reducing employee system time by up to 50%.
+- Spearheaded transition of global system infrastructure to a web based solution, directing ambitious multi-country deployment to 30+ sites over a 6-month period.
 - Successfully sustained vital processes with a rapid shift to 100% remote working due to Covid-19.
-- Served as bridge between development teams and business to design and deliver value-adding technology.
-- Collaborated with IT and Analytics to streamline and automate global reporting within Qlik Sense.
+- Collaborated with IT and Analytics to streamline and automate global reporting within Qlik Sense, creating an easy-to-use tool that contributed to a 7% improvement in Customer Service results.
 
 ### HSBC | RBWM Credit Control Services (2014 to 2020)
 
