@@ -119,7 +119,7 @@ _Global Business Analyst and Platform Manager_
 - Served as bridge between development teams and business to design and deliver value-adding technology.
 - Collaborated with IT and Analytics to streamline and automate global reporting within Qlik Sense.
 
-### HSBC | RBWM Credit Control Services (2014 to 2022)
+### HSBC | RBWM Credit Control Services (2014 to 2020)
 
 _Global Platform and Operational Data Manager_
 
