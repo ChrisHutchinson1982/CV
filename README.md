@@ -123,20 +123,20 @@ _Global Business Analyst and Platform Manager_
 
 _Global Platform and Operational Data Manager_
 
-- Developed low cost and high-quality platform solutions utilising MS Access, MS Excel and MS SharePoint.
+- Independently developed low cost and high quality coding solutions (Microsoft Visual Basic and SQL) used globally over a 5-year period.
 - Led solution delivery of large transformation projects including the roll out of Quality and Coaching models.
 - Designed global reporting infrastructure, shaping a robust risk control and governance framework.
-- Conducted onsite Health Check assessments at Global Service Centres in China, India and Philippines.
-- Managed a team based in India, providing system support and report production to 25+ countries.
+- Conducted onsite Health Check assessments at Global Service Centres in China, India and Philippines, leading to a 40% improvement in programme participation.
+- Managed a team based in India, providing excellent system support to 25+ countries and proudly overseeing a high proportion of team in gaining promotions.
 
-### HSBC | RBWM Risk (2014 to 2020)
+### HSBC | RBWM Risk (2012 to 2014)
 
 _Regional Platform and Operational Data Manager_
 
 - Designed and implemented regional IT Platform infrastructure, hosting deployment events, test sessions and directing local site specialists.
 - Presented with an end-of-year award in acknowledgment of the excellent support provided to the operational team.
 
-### HSBC | UK Collections (2012 to 2014)
+### HSBC | UK Collections (2010 to 2012)
 
 _Project Manager_
 
