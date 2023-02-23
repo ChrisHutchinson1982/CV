@@ -50,7 +50,7 @@ Here is a selection of the projects I've worked on. For a complete list, [please
 | [**Bank Test**](https://github.com/ChrisHutchinson1982/bank_tech_test)              | A quick and simple bank simulator                      | 2 days    | Javascript, NodeJS, Github Actions, Jest                                                                |
 | [**News Challenge**](https://github.com/ChrisHutchinson1982/news-summary-challenge) | A webapp that grabs latest news headlines              | 2 days    | Javascript, NodeJS, Github Actions, Jest, HTML, CSS                                                     |
 | [**Bowling Challenge**](https://github.com/ChrisHutchinson1982/bowling-challenge)   | A bowling scorecard calculator                         | 2 days    | Javascript, NodeJS, Github Actions, Jest                                                                |
-| [**Chitter**](https://github.com/ChrisHutchinson1982/bank_tech_test)                | An experimental Twitter clone                          | 2 days    | Ruby, SQL, PostgreSQL, Sinatra, RSpec, HTML, ERB, CCS                                                   |
+| [**Chitter**](https://github.com/ChrisHutchinson1982/chitter-challenge)             | An experimental Twitter clone                          | 2 days    | Ruby, SQL, PostgreSQL, Sinatra, RSpec, HTML, ERB, CCS                                                   |
 
 ## Skills
 
