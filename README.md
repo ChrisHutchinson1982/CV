@@ -12,7 +12,7 @@
 
 After 17 successful years working for HSBC in a variety of roles spanning Business Analysis, Data Analysis and Project Management, I was ready for a new challenge.
 
-I was enjoying working with development teams on a number of projects but felt envious that they were the ones writing the code and building the applications. It suddenly dawned on me, **why couldn't that be me?**
+I enjoyed working with development teams on a number of projects but felt envious that they were the ones writing the code and building the applications. It suddenly dawned on me, **why couldn't that be me?**
 
 Fast forward 6 months and having recently graduated from the **[Makers Academy](https://makers.tech)**, where I learned how to produce high quality test-driven code, I am excited and energised to embark on my next career chapter as a **Full Stack Software Developer**.
 
@@ -68,7 +68,9 @@ In my roles as a Business Analyst and Project Manager, I effectively communicate
 
 This included project managing a global system migration where I acted as the communication channel between developers and the business, translating end user needs into technical requirements and directing the ambitious 6-month solution delivery to 30+ sites.
 
-As I pivot into Software Development, I have been able to apply my strong communication skills during pair programming, group projects and when volunteering to lead an end of project retro for our Makers cohort.
+One of the best things about my previous career was the opportunity to work with individuals from all over the world, effectively collaborating and communicating with people from a diverse range of backgrounds, personality types and seniority levels.
+
+During the group projects at Makers, I looked to use this expertise to help ensure a harmonious team environment. Actively encouraging everyone in the group to participate, ensuring they all had the opportunity and confidence to voice their views and ideas during team stand-ups, retros and pair programming activity. By creating these open communication channels, everyone felt they were able to make a valuable contribution towards the success of the final product.
 
 ### **Empathetic Team-player**
 
@@ -76,7 +78,7 @@ I thrive when working within a team on a shared goal and am always on hand to su
 
 Adopting a nurturing leadership approach when managing a team based in India, we created a reputation for delivering an excellent quality of service to the 25+ markets that we supported and I was proud to oversee a high proportion of the team in gaining promotions at HSBC.
 
-When working as part of an Agile team in group projects and during the more formal learning weeks, if someone in my Makers cohort needed support, I made sure I was available to help them get through their blocker.
+When working as part of an Agile team in group projects and during the more formal learning weeks, it was really important to me that everyone in my Makers cohort felt comfortable and supported. I made sure I was always available to help, receiving positive feedback from individuals within the team for the support I provided and for my empathetic and impactive effect on the group.
 
 ### **Fast and Independent Learner**
 
@@ -98,14 +100,11 @@ A fully immersive 16-week Software Development course at Europe’s #1 Developer
 - Designing table-oriented (SQL) and document-based (MongoDB) database schemas.
 - Web frameworks, version control and continuous integration/deployment to create full stack web apps.
 - Independent learning and problem-solving.
+- Tech environment specific EQ curriculum on topics including teamwork, empathy and feedback.
 
 ### Sheffield Hallam University (2001-2004)
 
 - BA (Hons) Industrial Design Product
-
-### Culcheth High School (1994 to 2001)
-
-- 4 A Levels (Inc. B in Maths) / 10 GCSEs
 
 ## Experience
 
